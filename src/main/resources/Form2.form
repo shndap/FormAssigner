@@ -1,0 +1,127 @@
+{
+  "components": [
+    {
+      "label": "Number",
+      "type": "number",
+      "id": "Field_0glcqai",
+      "key": "field_10m815c"
+    },
+    {
+      "label": "Checkbox",
+      "type": "checkbox",
+      "id": "Field_0d5yz0k",
+      "key": "field_0jnnj0b"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Taglist",
+      "type": "taglist",
+      "id": "Field_0fzfr9h",
+      "key": "field_0aqx0tk"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Checklist",
+      "type": "checklist",
+      "id": "Field_0lbemcm",
+      "key": "field_0w8n79h"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        },
+        {
+          "label": "Value 2",
+          "value": "value2"
+        },
+        {
+          "label": "Value 3",
+          "value": "value3"
+        },
+        {
+          "label": "Value 4",
+          "value": "value4"
+        }
+      ],
+      "label": "Checklist",
+      "type": "checklist",
+      "id": "Field_12li42t",
+      "key": "field_0lgc6b1",
+      "properties": {
+        "key1": "value",
+        "key2": "value",
+        "key3": "value",
+        "key4": "value"
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Checklist",
+      "type": "checklist",
+      "id": "Field_1vejl77",
+      "key": "field_0g68tpm"
+    },
+    {
+      "text": "# Text",
+      "type": "text",
+      "id": "Field_0gvvgxd"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Taglist",
+      "type": "taglist",
+      "id": "Field_0lq6btx",
+      "key": "field_017dbak"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Taglist",
+      "type": "taglist",
+      "id": "Field_1uikvj1",
+      "key": "field_1272tph"
+    },
+    {
+      "action": "submit",
+      "label": "Button",
+      "type": "button",
+      "id": "Field_0p2lbnv",
+      "key": "field_09jf7xt"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0rc9u19",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "schemaVersion": 5
+}

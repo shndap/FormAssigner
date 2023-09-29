@@ -1,0 +1,70 @@
+{
+  "components": [
+    {
+      "label": "Text Field",
+      "type": "textfield",
+      "id": "Field_0s2gabf",
+      "key": "field_0ah8yyf"
+    },
+    {
+      "label": "Number",
+      "type": "number",
+      "id": "Field_1n0cylg",
+      "key": "field_0x9sqim"
+    },
+    {
+      "label": "Text Field",
+      "type": "textfield",
+      "id": "Field_1bx45vc",
+      "key": "field_0byuspa"
+    },
+    {
+      "label": "Number",
+      "type": "number",
+      "id": "Field_1m644lf",
+      "key": "field_0z313yw"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Taglist",
+      "type": "taglist",
+      "id": "Field_1trr0yn",
+      "key": "field_0kj43mm"
+    },
+    {
+      "values": [],
+      "label": "Radio",
+      "type": "radio",
+      "id": "Field_0pgp6xy",
+      "key": "field_0r18pek"
+    },
+    {
+      "action": "submit",
+      "label": "Button",
+      "type": "button",
+      "id": "Field_1rke317",
+      "key": "field_1f408tm"
+    },
+    {
+      "action": "submit",
+      "label": "Button",
+      "type": "button",
+      "id": "Field_0uly6tq",
+      "key": "field_0pwqigu"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0erjj1u",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "schemaVersion": 5
+}
